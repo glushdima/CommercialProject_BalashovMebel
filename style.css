@@ -35,6 +35,7 @@ a.button {
     padding: 1vw; 
     border: 0.1vw solid black;
     border-radius: 0.5vh;
+    white-space: nowrap;
 }
 
 .bg {
